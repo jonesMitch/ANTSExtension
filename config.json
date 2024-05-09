@@ -1,0 +1,6 @@
+{
+    "filepaths": {
+        "readPath": "LuaFiles",
+        "writePath": "MinimizedLuaFiles"
+    }
+}
